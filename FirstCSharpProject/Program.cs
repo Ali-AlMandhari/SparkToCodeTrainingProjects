@@ -6,7 +6,7 @@
         {
             Console.WriteLine(" Countdown Timer ");
             Console.Write("Enter a starting number: ");
-
+            int startNumber = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
