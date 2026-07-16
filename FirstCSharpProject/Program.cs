@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine(" Countdown Timer ");
+            Console.Write("Enter a starting number: ");
 
         }
     }
